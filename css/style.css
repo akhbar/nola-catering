@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  padding: 30px;
+  
+  background: #F0F2F5 url(http://nolacatering.co.id/blog/wp-content/uploads/2013/09/NOLA-logo-flat1.png) no-repeat center;
+}
+.logo {
+  -webkit-perspective: 250px;
+  perspective: 250px;
+  display: inline-block;
+  font-family: Roboto, Impact;
+  font-size: 5em;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -.05em;
+  margin-top:200px;}
+.logo span { display: inline-block; }
+.m1 { color: #CCD1D9 ; }
+.m2 { color: #AAB2BD ; }
